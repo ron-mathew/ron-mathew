@@ -37,7 +37,7 @@ I focus on converting ideas into working applications, whether it's through **YO
 ---
 
 ## Contact Me
-- LinkedIn: [https://linkedin.com/in/YOUR-LINK ](https://www.linkedin.com/in/ron-mathew-316a73215/) 
+- LinkedIn: https://www.linkedin.com/in/ron-mathew-316a73215/
 - Email: ronmathew2210@gmail.com
 
 ---
