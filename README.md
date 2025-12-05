@@ -53,7 +53,7 @@ Thanks for visiting my profile. More projects coming soon.
 
 ### AI / Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow Lite](https://img.shields.io/badge/TFLite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Ultralytics YOLO](https://img.shields.io/badge/YOLOv8-0A0A0A?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Transformers-FFDF00?style=for-the-badge&logo=huggingface&logoColor=black)
